@@ -1,0 +1,43 @@
+[19:23:10] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[19:23:10] [Server thread/INFO]: Loading properties
+[19:23:10] [Server thread/INFO]: Default game type: SURVIVAL
+[19:23:10] [Server thread/INFO]: Generating keypair
+[19:23:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:23:11] [Server thread/INFO]: Using epoll channel type
+[19:23:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:23:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:23:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:23:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:23:11] [Server thread/INFO]: Preparing level "world"
+[19:23:11] [Server thread/INFO]: Loaded 488 advancements
+[19:23:11] [Server thread/INFO]: Preparing start region for level 0
+[19:23:12] [Server thread/INFO]: Preparing spawn area: 50%
+[19:23:12] [Server thread/INFO]: Done (1.615s)! For help, type "help" or "?"
+[19:26:39] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
+[19:26:39] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
+[19:26:39] [Server thread/INFO]: /ban <name> [reason ...]
+[19:26:39] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[19:26:39] [Server thread/INFO]: /banlist [ips|players]
+[19:26:39] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[19:26:39] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[19:26:39] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[19:26:39] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[19:32:53] [Server thread/INFO]: Cryo[/127.0.0.1:47701] logged in with entity id 66 at (-125.5, 75.0, 221.5)
+[19:32:53] [Server thread/INFO]: Cryo joined the game
+[19:32:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2149ms behind, skipping 42 tick(s)
+[19:33:00] [Server thread/INFO]: Cryo lost connection: Disconnected
+[19:33:00] [Server thread/INFO]: Cryo left the game
+[19:34:17] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:34:20] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:34:23] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:35:12] [Server thread/INFO]: Stopping the server
+[19:35:12] [Server thread/INFO]: Stopping server
+[19:35:12] [Server thread/INFO]: Saving players
+[19:35:12] [Server thread/INFO]: Saving worlds
+[19:35:12] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[19:35:12] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[19:35:12] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[19:35:12] [Server Shutdown Thread/INFO]: Stopping server
+[19:35:12] [Server Shutdown Thread/INFO]: Saving players
+[19:35:12] [Server Shutdown Thread/INFO]: Saving worlds
+[19:35:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
